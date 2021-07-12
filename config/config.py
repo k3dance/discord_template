@@ -1,0 +1,7 @@
+PREFIX = 'YOUR COMMAND PREFIX'
+TOKEN = 'YOUR BOT TOKEN'
+
+DB_USER = 'postgres'
+DB_NAME = 'postgres'
+DB_HOST = 'localhost'
+DB_PASS = 'YOUR POSTGRES PASSWORD'
